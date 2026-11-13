@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "hackathon",
+        "date": "30-11-2026",
+        "capacity": 3000,
+        "attendees": []
+    },
+    {
+        "id": 2,
+        "name": "industry insights",
+        "date": "05-12-2026",
+        "capacity": 200,
+        "attendees": [
+            "niyyah"
+        ]
+    }
+]
